@@ -4,13 +4,13 @@ Mentorship Goals Needed To Finish
 
 ## CSS
 
-- [ ] Flex Box
-- [ ] CSS Grid
-- [ ] Transform
-- [ ] Animation
-- [ ] Media Queries
-- [ ] Grid System
-- [ ] Create Your Framework || UI Kit
+- [x] Flex Box
+- [x] CSS Grid
+- [x] Transform
+- [x] Animation
+- [x] Media Queries
+- [x] Grid System
+- [x] Create Your Framework || UI Kit
 
 ## JavaScript
 
