@@ -14,7 +14,7 @@ Mentorship Goals Needed To Finish
 
 ## JavaScript
 
-- [ ] DOM
+- [x] DOM
 - [ ] Higher Order Functions
 - [ ] Destructuring
 - [ ] Scope
