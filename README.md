@@ -16,9 +16,9 @@ Mentorship Goals Needed To Finish
 
 - [x] DOM
 - [ ] Higher Order Functions
-- [ ] Destructuring
+- [x] Destructuring
 - [ ] Scope
-- [ ] Local Storage
+- [x] Local Storage
 - [ ] Object Oriented Programming
 - [ ] Prototype
 - [ ] JSON
@@ -29,7 +29,7 @@ Mentorship Goals Needed To Finish
 
 - [ ] Lighthouse
 - [ ] Google Developer Tools
-- [ ] Git And Github
+- [x] Git And Github
 - [ ] Terminal And Commands
 
 ## Problem Solving And Challenges
@@ -43,20 +43,20 @@ Mentorship Goals Needed To Finish
 
 - [ ] Template 1 [HTML + CSS]
 - [ ] Template 2 [HTML + CSS]
-- [ ] Template 3 [HTML + CSS]
+- [x] Template 3 [HTML + CSS]
 - [ ] Template 4 [HTML + CSS + JS]
 - [ ] Dashboard [HTML + CSS + JS]
 
 ## Portofolio
 
 - [ ] Your Website
-- [ ] Github Profile
-- [ ] Linkedin Profile => [LinkedIn Useful Video](https://www.youtube.com/watch?v=7JysIkTyccs)
+- [x] Github Profile
+- [x] Linkedin Profile => [LinkedIn Useful Video](https://www.youtube.com/watch?v=7JysIkTyccs)
 - [ ] Resume
 
 ## Before Frameworks
 
-- [ ] Virtual DOM
+- [x] Virtual DOM
 - [ ] Modules
 - [ ] Reactivity
 - [ ] Design Patterns
