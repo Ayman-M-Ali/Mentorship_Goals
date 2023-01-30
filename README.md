@@ -19,8 +19,8 @@ Mentorship Goals Needed To Finish
 - [x] Destructuring
 - [ ] Scope
 - [x] Local Storage
-- [ ] Object Oriented Programming
-- [ ] Prototype
+- [x] Object Oriented Programming
+- [x] Prototype
 - [ ] JSON
 - [ ] AJAX
 - [ ] Promises
