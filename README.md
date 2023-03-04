@@ -17,13 +17,13 @@ Mentorship Goals Needed To Finish
 - [x] DOM
 - [x] Higher Order Functions
 - [x] Destructuring
-- [ ] Scope
+- [x] Scope
 - [x] Local Storage
 - [x] Object Oriented Programming
 - [x] Prototype
-- [ ] JSON
-- [ ] AJAX
-- [ ] Promises
+- [x] JSON
+- [x] AJAX
+- [x] Promises
 
 ## Tools 
 
