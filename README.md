@@ -27,8 +27,8 @@ Mentorship Goals Needed To Finish
 
 ## Tools 
 
-- [ ] Lighthouse
-- [ ] Google Developer Tools
+- [x] Lighthouse
+- [x] Google Developer Tools
 - [x] Git And Github
 - [ ] Terminal And Commands
 
