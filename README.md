@@ -30,7 +30,7 @@ Mentorship Goals Needed To Finish
 - [x] Lighthouse
 - [x] Google Developer Tools
 - [x] Git And Github
-- [ ] Terminal And Commands
+- [x] Terminal And Commands
 
 ## Problem Solving And Challenges
 
