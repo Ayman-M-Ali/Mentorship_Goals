@@ -65,7 +65,7 @@ Mentorship Goals Needed To Finish
 ## Save Time Skills
 
 - [x] SASS
-- [ ] Pugjs
+- [x] Pugjs
 - [ ] One Of The Task Runners
 
 ## Advanced Skills
